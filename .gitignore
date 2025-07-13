@@ -1,0 +1,11 @@
+node_modules
+.env
+database.sqlite
+server/database/crm.db
+uploads/*
+!uploads/.gitkeep
+dist
+build
+.DS_Store
+*.log
+CLAUDE.md
